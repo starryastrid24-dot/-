@@ -1,0 +1,182 @@
+{
+  "schema_version": 1,
+  "profile": "split",
+  "managed_tags": [
+    "pa-bootstrap-tcp",
+    "pa-bootstrap-tls",
+    "pa-bootstrap-udp",
+    "pa-bootstrap",
+    "pa-alidns",
+    "pa-tencent",
+    "pa-domestic",
+    "pa-claude",
+    "pa-google",
+    "pa-ai",
+    "pa-sensitive",
+    "pa-default"
+  ],
+  "servers": [
+    {
+      "kind": "user",
+      "tag": "pa-bootstrap-tcp",
+      "enabled": true,
+      "body": {
+        "type": "tcp",
+        "server": "223.5.5.5"
+      }
+    },
+    {
+      "kind": "user",
+      "tag": "pa-bootstrap-tls",
+      "enabled": true,
+      "body": {
+        "type": "tls",
+        "server": "223.5.5.5",
+        "tls": {
+          "enabled": true,
+          "server_name": "dns.alidns.com"
+        }
+      }
+    },
+    {
+      "kind": "user",
+      "tag": "pa-bootstrap-udp",
+      "enabled": true,
+      "body": {
+        "type": "udp",
+        "server": "119.29.29.29"
+      }
+    },
+    {
+      "kind": "user",
+      "tag": "pa-bootstrap",
+      "enabled": true,
+      "body": {
+        "type": "group",
+        "servers": [
+          "pa-bootstrap-tcp",
+          "pa-bootstrap-tls",
+          "pa-bootstrap-udp"
+        ],
+        "mode": "fastest"
+      }
+    },
+    {
+      "kind": "user",
+      "tag": "pa-alidns",
+      "enabled": true,
+      "body": {
+        "type": "https",
+        "server": "dns.alidns.com",
+        "path": "/dns-query",
+        "domain_resolver": "pa-bootstrap",
+        "detour": "direct-out"
+      }
+    },
+    {
+      "kind": "user",
+      "tag": "pa-tencent",
+      "enabled": true,
+      "body": {
+        "type": "https",
+        "server": "doh.pub",
+        "path": "/dns-query",
+        "domain_resolver": "pa-bootstrap",
+        "detour": "direct-out"
+      }
+    },
+    {
+      "kind": "user",
+      "tag": "pa-domestic",
+      "enabled": true,
+      "body": {
+        "type": "group",
+        "servers": [
+          "pa-alidns",
+          "pa-tencent"
+        ],
+        "mode": "fastest"
+      }
+    },
+    {
+      "kind": "user",
+      "tag": "pa-claude",
+      "enabled": true,
+      "body": {
+        "type": "https",
+        "server": "8.8.8.8",
+        "server_port": 443,
+        "tls": {
+          "enabled": true,
+          "server_name": "dns.google"
+        },
+        "path": "/dns-query",
+        "detour": "vpn-4"
+      }
+    },
+    {
+      "kind": "user",
+      "tag": "pa-google",
+      "enabled": true,
+      "body": {
+        "type": "https",
+        "server": "8.8.8.8",
+        "server_port": 443,
+        "tls": {
+          "enabled": true,
+          "server_name": "dns.google"
+        },
+        "path": "/dns-query",
+        "detour": "vpn-3"
+      }
+    },
+    {
+      "kind": "user",
+      "tag": "pa-ai",
+      "enabled": true,
+      "body": {
+        "type": "https",
+        "server": "8.8.8.8",
+        "server_port": 443,
+        "tls": {
+          "enabled": true,
+          "server_name": "dns.google"
+        },
+        "path": "/dns-query",
+        "detour": "vpn-2"
+      }
+    },
+    {
+      "kind": "user",
+      "tag": "pa-sensitive",
+      "enabled": true,
+      "body": {
+        "type": "https",
+        "server": "8.8.8.8",
+        "server_port": 443,
+        "tls": {
+          "enabled": true,
+          "server_name": "dns.google"
+        },
+        "path": "/dns-query",
+        "detour": "vpn-5"
+      }
+    },
+    {
+      "kind": "user",
+      "tag": "pa-default",
+      "enabled": true,
+      "body": {
+        "type": "https",
+        "server": "8.8.8.8",
+        "server_port": 443,
+        "tls": {
+          "enabled": true,
+          "server_name": "dns.google"
+        },
+        "path": "/dns-query",
+        "detour": "vpn-1"
+      }
+    }
+  ]
+}
