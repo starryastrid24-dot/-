@@ -1,0 +1,13 @@
+{
+  "version": 3,
+  "rules": [
+    {
+      "domain": [
+        "file-igamecj.akamaized.net",
+        "ip.istatmenus.app",
+        "speedtest.macpaw.com",
+        "images-cn.ssl-images-amazon.com"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "version": 3,
+  "rules": [
+    {
+      "package_name": [
+        "com.taobao.taobao",
+        "com.bilibili.app.in",
+        "tv.danmaku.bili",
+        "com.qiyi.video",
+        "com.jjwxc.reader",
+        "com.xiaomi.mibrain.speech"
+      ]
+    }
+  ]
+}

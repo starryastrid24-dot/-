@@ -1,0 +1,30 @@
+{
+  "version": 3,
+  "rules": [
+    {
+      "domain": [
+        "hls.itunes.apple.com",
+        "hls-amt.itunes.apple.com",
+        "play-edge.itunes.apple.com",
+        "d151l6v8er5bdm.cloudfront.net",
+        "edge.api.brightcove.com",
+        "bcbolt446c5271-a.akamaihd.net",
+        "cdn-fox-networks-group-green.akamaized.net",
+        "d3cv4a9a9wh0bt.cloudfront.net",
+        "foxsports01-i.akamaihd.net",
+        "foxsports02-i.akamaihd.net",
+        "foxsports03-i.akamaihd.net",
+        "staticasiafox.akamaized.net",
+        "itvpnpmobile-a.akamaihd.net",
+        "kktv-theater.kk.stream",
+        "d3c7rimkq79yfu.cloudfront.net",
+        "litvfreemobile-hichannel.cdn.hinet.net",
+        "d349g9zuie06uo.cloudfront.net",
+        "hamifans.emome.net",
+        "d1k2us671qcoau.cloudfront.net",
+        "d2anahhhmp1ffz.cloudfront.net",
+        "dfp6rglgjqszk.cloudfront.net"
+      ]
+    }
+  ]
+}

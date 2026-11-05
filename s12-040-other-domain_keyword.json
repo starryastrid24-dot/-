@@ -1,0 +1,19 @@
+{
+  "version": 3,
+  "rules": [
+    {
+      "domain_keyword": [
+        "twitter",
+        "etsy",
+        "linkedin",
+        "dribbble",
+        "whatsapp",
+        "apiproxy-device-prod-nlb-",
+        "dualstack.apiproxy-",
+        "dualstack.ichnaea-web-",
+        "netflixdnstest",
+        "-tiktokcdn-com"
+      ]
+    }
+  ]
+}

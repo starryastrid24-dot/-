@@ -1,0 +1,28 @@
+{
+  "version": 3,
+  "rules": [
+    {
+      "domain": [
+        "testflight.apple.com",
+        "az416426.vo.msecnd.net",
+        "az668014.vo.msecnd.net",
+        "a248.e.akamai.net",
+        "a771.dscq.akamai.net",
+        "d3c33hcgiwev3.cloudfront.net",
+        "cc.tvbs.com.tw",
+        "ocsp.int-x3.letsencrypt.org",
+        "payments-jp.amazon.com",
+        "s3-ap-northeast-1.amazonaws.com",
+        "s3-ap-southeast-2.amazonaws.com",
+        "search.avira.com",
+        "us.weibo.com",
+        "books.itunes.apple.com",
+        "apps.apple.com",
+        "itunes.apple.com",
+        "api-glb-sea.smoot.apple.com",
+        "lookup-api.apple.com",
+        "beta.music.apple.com"
+      ]
+    }
+  ]
+}

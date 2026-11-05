@@ -1,0 +1,13 @@
+{
+  "version": 3,
+  "rules": [
+    {
+      "package_name": [
+        "nekox.messenger",
+        "org.telegram.messenger",
+        "tw.nekomimi.nekogram",
+        "xyz.nextalone.nagram"
+      ]
+    }
+  ]
+}

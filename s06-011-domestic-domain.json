@@ -1,0 +1,22 @@
+{
+  "version": 3,
+  "rules": [
+    {
+      "domain": [
+        "dur.cantons.net",
+        "dur.cantonz.com",
+        "www.cantonz.com",
+        "savinos.trafficmanager.net",
+        "app.adjust.com",
+        "bdtj.tagtic.cn",
+        "log.mmstat.com",
+        "sycm.mmstat.com",
+        "livew.l.qq.com",
+        "vd.l.qq.com",
+        "analytics.strava.com",
+        "msg.umeng.com",
+        "msg.umengcloud.com"
+      ]
+    }
+  ]
+}

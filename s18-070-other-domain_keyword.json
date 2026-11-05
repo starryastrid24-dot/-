@@ -1,0 +1,17 @@
+{
+  "version": 3,
+  "rules": [
+    {
+      "domain_keyword": [
+        "steamstore",
+        "steamuserimages",
+        "steambroadcast",
+        "japonx",
+        "japronx",
+        "bskyb",
+        "skygo",
+        "skyliveuk"
+      ]
+    }
+  ]
+}

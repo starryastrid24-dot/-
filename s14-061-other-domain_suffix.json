@@ -1,0 +1,38 @@
+{
+  "version": 3,
+  "rules": [
+    {
+      "domain_suffix": [
+        "amazonprimevideos.com",
+        "amazonvideo.cc",
+        "amazonvideo.com",
+        "atv-ps.amazon.com",
+        "avodmp4s3ww-a.akamaihd.net",
+        "fls-na.amazon.com",
+        "llnwd.net",
+        "media-amazon.com",
+        "prime-video.com",
+        "primevideo.cc",
+        "primevideo.com",
+        "primevideo.info",
+        "primevideo.org",
+        "primevideo.tv",
+        "pv-cdn.net",
+        "gvt2.com",
+        "youtu.be",
+        "yt.be",
+        "fanatical.com",
+        "humblebundle.com",
+        "playartifact.com",
+        "s.team",
+        "steam-api.com",
+        "steam-chat.com",
+        "steam.tv",
+        "steamcommunity.com",
+        "steamcontent.tnkjmec.com",
+        "steamdeck.com",
+        "steamgames.com"
+      ]
+    }
+  ]
+}

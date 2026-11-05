@@ -1,0 +1,14 @@
+{
+  "version": 3,
+  "rules": [
+    {
+      "domain_suffix": [
+        "steamstat.us",
+        "steamunlocked.net",
+        "underlords.com",
+        "valvesoftware.com",
+        "steambroadcast.akamaized.net"
+      ]
+    }
+  ]
+}

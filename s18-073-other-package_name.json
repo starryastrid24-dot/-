@@ -1,0 +1,26 @@
+{
+  "version": 3,
+  "rules": [
+    {
+      "package_name": [
+        "com.android.vending",
+        "com.linecorp.linetv",
+        "tv.twitch.android.app",
+        "com.cbs.app",
+        "com.showtime.standalone",
+        "com.cw.fullepisodes.android",
+        "com.cw.seed.android",
+        "com.hulu.plus",
+        "com.italkbbtv.phone",
+        "com.tencent.ibg.joox",
+        "com.app.pornhub",
+        "com.spotify.music",
+        "com.viu.pad",
+        "com.viu.phone",
+        "com.vuclip.viu",
+        "com.tencent.qqlivei18n",
+        "com.tencent.qqlivei18n.us"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "version": 3,
+  "rules": [
+    {
+      "domain_suffix": [
+        "acg.tv",
+        "acgvideo.com",
+        "b23.tv",
+        "biliapi.com",
+        "biliapi.net",
+        "bilibili.com",
+        "biligame.com",
+        "biligame.net",
+        "bilivideo.com",
+        "hdslb.com",
+        "im9.com",
+        "smtcdns.net",
+        "qy.net",
+        "api.mob.app.letv.com",
+        "v.smtcdns.com",
+        "vv.video.qq.com"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "rules": [
+    {
+      "process_name": [
+        "小米云服务.exe"
+      ]
+    }
+  ]
+}

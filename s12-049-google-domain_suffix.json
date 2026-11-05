@@ -1,0 +1,42 @@
+{
+  "version": 3,
+  "rules": [
+    {
+      "domain_suffix": [
+        "bard.google.com",
+        "deepmind.google",
+        "gemini.google.com",
+        "generativeai.google",
+        "proactivebackend-pa.googleapis.com",
+        "apis.google.com",
+        "jnn-pa.googleapis.com",
+        "www.googleapis.com",
+        "waa-pa.clients6.google.com",
+        "assistant.google.com",
+        "speechsynthesis.googleapis.com",
+        "voice.googleapis.com",
+        "antigravity.google",
+        "labs.google",
+        "scholar.googleusercontent.com",
+        "scholar-lens.googleusercontent.com",
+        "accounts.google.com",
+        "clients2.google.com",
+        "firebaseinstallations.googleapis.com",
+        "ai.google.com",
+        "googleapis.com",
+        "aistudio.google.com",
+        "makersuite.google.com",
+        "generativelanguage.googleapis.com",
+        "alkali.google.com",
+        "myaccount.google.com",
+        "www.gstatic.com",
+        "ssl.gstatic.com",
+        "fonts.gstatic.com",
+        "lh3.googleusercontent.com",
+        "googleusercontent.com",
+        "gtn-pa.googleapis.com",
+        "alkalimakersuite-pa.clients6.google.com"
+      ]
+    }
+  ]
+}

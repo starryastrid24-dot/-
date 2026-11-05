@@ -1,0 +1,16 @@
+{
+  "version": 3,
+  "rules": [
+    {
+      "domain_keyword": [
+        "jooxweb-api",
+        "spotify.com",
+        "-spotify-com",
+        "abematv.akamaized.net",
+        "bbcfmt",
+        "uk-live",
+        "voddazn"
+      ]
+    }
+  ]
+}

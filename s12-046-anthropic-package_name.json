@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "rules": [
+    {
+      "package_name": [
+        "com.anthropic.claude"
+      ]
+    }
+  ]
+}

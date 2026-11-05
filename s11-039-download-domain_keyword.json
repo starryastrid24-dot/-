@@ -1,0 +1,15 @@
+{
+  "version": 3,
+  "rules": [
+    {
+      "domain_keyword": [
+        "aria2",
+        "xunlei",
+        "yunpan",
+        "Thunder",
+        "XLLiveUD",
+        "cantons.net"
+      ]
+    }
+  ]
+}

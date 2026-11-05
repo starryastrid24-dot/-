@@ -1,0 +1,14 @@
+{
+  "version": 3,
+  "rules": [
+    {
+      "domain_suffix": [
+        "foo.com",
+        "ip6-localhost",
+        "ip6-loopback",
+        "n.n.srv.nintendo.net",
+        "xnotify.xboxlive.com"
+      ]
+    }
+  ]
+}

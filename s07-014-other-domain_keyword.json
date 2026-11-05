@@ -1,0 +1,32 @@
+{
+  "version": 3,
+  "rules": [
+    {
+      "domain_keyword": [
+        "admarvel",
+        "admaster",
+        "adsage",
+        "adsmogo",
+        "adsrvmedia",
+        "adwords",
+        "adservice",
+        "domob",
+        "duomeng",
+        "dwtrack",
+        "guanggao",
+        "lianmeng",
+        "mopub",
+        "omgmta",
+        "openx",
+        "partnerad",
+        "pingfore",
+        "supersonicads",
+        "uedas",
+        "umeng",
+        "usage",
+        "wlmonitor",
+        "zjtoolbar"
+      ]
+    }
+  ]
+}

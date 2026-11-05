@@ -1,0 +1,12 @@
+{
+  "version": 3,
+  "rules": [
+    {
+      "package_name": [
+        "com.google.android.gms",
+        "com.google.android.gsf",
+        "com.google.android.play.games"
+      ]
+    }
+  ]
+}

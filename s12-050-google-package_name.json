@@ -1,0 +1,11 @@
+{
+  "version": 3,
+  "rules": [
+    {
+      "package_name": [
+        "com.google.android.apps.bard",
+        "com.google.android.googlequicksearchbox"
+      ]
+    }
+  ]
+}

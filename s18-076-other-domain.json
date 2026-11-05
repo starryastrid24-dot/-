@@ -1,0 +1,49 @@
+{
+  "version": 3,
+  "rules": [
+    {
+      "domain": [
+        "e122475.dscg.akamaiedge.net",
+        "licdn.cn.cdn20.com",
+        "l-0005.dc-msedge.net",
+        "l-0005.l-msedge.net",
+        "linkedin.sc.omtrdc.net",
+        "d17lx9ucc6k9fc.cloudfront.net",
+        "aod-dash-uk-live.akamaized.net",
+        "aod-hls-uk-live.akamaized.net",
+        "as-dash-uk-live.akamaized.net",
+        "as-hls-uk-live.akamaized.net",
+        "vod-dash-uk-live.akamaized.net",
+        "vod-dash-uk-live.bbcfmt.hs.llnwd.net",
+        "vod-dash-ww-live.akamaized.net",
+        "vod-dash-ww-live.bbcfmt.s.llnwi.net",
+        "vod-hls-uk-live.akamaized.net",
+        "vod-sub-uk-live.akamaized.net",
+        "vod-thumb-uk-live.akamaized.net",
+        "vod-thumb-uk-live.bbcfmt.hs.llnwd.net",
+        "vod-thumb-ww-live.akamaized.net",
+        "vod-thumb-ww-live.bbcfmt.s.llnwi.net",
+        "vs-cmaf-push-uk-live.akamaized.net",
+        "cwtv-amd-akamai.akamaized.net",
+        "edge.cwtv-vod-ext.top.comcast.net",
+        "d1sgwhnao7452x.cloudfront.net",
+        "rthklive2-lh.akamaihd.net",
+        "rthkradio1-live.akamaized.net",
+        "rthkradio2-live.akamaized.net",
+        "rthkradio3-live.akamaized.net",
+        "rthkradio4-live.akamaized.net",
+        "rthkradio5-live.akamaized.net",
+        "rthkradiocmgrgb-live.akamaized.net",
+        "rthkradiocnrhk-live.akamaized.net",
+        "rthkradiopth-live.akamaized.net",
+        "rthktv31-live.akamaized.net",
+        "rthktv32-live.akamaized.net",
+        "7d1732c7c34624df5f1270e29cf8d1ea78695fd5.cws.conviva.com",
+        "clientstream.launchdarkly.com",
+        "sky.com",
+        "sky.com.ssl.d1.sc.omtrdc.net",
+        "sonyliveevents-nonssai.akamaized.net"
+      ]
+    }
+  ]
+}

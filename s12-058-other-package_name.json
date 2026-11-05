@@ -1,0 +1,15 @@
+{
+  "version": 3,
+  "rules": [
+    {
+      "package_name": [
+        "com.netflix.mediaclient",
+        "com.disney.disneyplus",
+        "com.disney.datg.videoplatforms.android.abc",
+        "com.hbo.hbonow",
+        "com.zhiliaoapp.musically",
+        "com.amazon.avod.thirdpartyclient"
+      ]
+    }
+  ]
+}
