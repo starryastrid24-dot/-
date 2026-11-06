@@ -1,0 +1,10 @@
+{
+  "url": "https://cdn.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@release/country-lite.mmdb",
+  "source_sha256": "34ab186513e2cb0d817aafbeb5378df779fc1bd43e2eff7f64067e8330aea38c",
+  "source_build_epoch": 1793851304,
+  "compiler": "1.14.4-lx.25",
+  "srs_sha256": "d6c2585041a1cfad8e62c38c02f6272bbed791a429fbae3c6386bcb26f2cdbd3",
+  "ipv4_networks": 5498,
+  "ipv6_networks": 2018,
+  "roundtrip_matches": true
+}
